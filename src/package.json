@@ -1,0 +1,12 @@
+{
+  "name": "react-loadable-example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react-loadable": "4.0.4",
+    "react-dom": "15.5.3",
+    "react": "15.5.3"
+  }
+}
